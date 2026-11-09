@@ -1,8 +1,8 @@
 class PronGet < Formula
   desc "Apt-style package manager for porn, over Tor"
   homepage "https://github.com/pron-get/pron-get"
-  url "https://github.com/pron-get/pron-get/archive/refs/tags/v0.7.1.tar.gz"
-  sha256 "9651d432bc9f05f8f043da05e2bd8c6e10832aed67bf2f53b4fb5af77bbee401"
+  url "https://github.com/pron-get/pron-get/archive/refs/tags/v0.7.2.tar.gz"
+  sha256 "0cefafc850b40cce0bb4593b9c4af585bbcceab297180f9602fd45159a8c1670"
   license "GPL-2.0-or-later"
 
   depends_on "go" => :build
